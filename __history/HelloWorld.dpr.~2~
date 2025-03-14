@@ -1,0 +1,14 @@
+program HelloWorld;
+
+uses
+  Vcl.Forms,
+  HelloWorld in 'HelloWorld.pas' {HelloWorldForm};
+
+{$R *.res}
+
+begin
+  Application.Initialize;
+  Application.MainFormOnTaskbar := True;
+  Application.CreateForm(THelloWorldForm, HelloWorldForm);
+  Application.Run;
+end.

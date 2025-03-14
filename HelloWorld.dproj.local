@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2025/03/14 09:39:54.000.022,=C:\Users\Stacey\repos\Delphi Projects\Unit1.pas</Transaction>
+    <Transaction>2025/03/14 09:51:27.000.073,C:\Users\Stacey\repos\Delphi Projects\Unit1.pas=C:\Users\Stacey\repos\Delphi Projects\Hello World\Unit1.pas</Transaction>
+    <Transaction>2025/03/14 09:51:27.000.073,C:\Users\Stacey\repos\Delphi Projects\Unit1.dfm=C:\Users\Stacey\repos\Delphi Projects\Hello World\Unit1.dfm</Transaction>
+    <Transaction>2025/03/14 09:51:33.000.101,C:\Users\Stacey\repos\Delphi Projects\Project1.dproj=C:\Users\Stacey\repos\Delphi Projects\Hello World\HelloWorld.dproj</Transaction>
+    <Transaction>2025/03/14 09:52:52.000.411,C:\Users\Stacey\repos\Delphi Projects\Hello World\Unit1.pas=C:\Users\Stacey\repos\Delphi Projects\Hello World\unitHelloWorld.pas</Transaction>
+    <Transaction>2025/03/14 09:52:52.000.411,C:\Users\Stacey\repos\Delphi Projects\Hello World\Unit1.dfm=C:\Users\Stacey\repos\Delphi Projects\Hello World\unitHelloWorld.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
